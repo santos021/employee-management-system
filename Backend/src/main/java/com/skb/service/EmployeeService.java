@@ -3,7 +3,6 @@ package com.skb.service;
 import com.skb.entity.Employee;
 import com.skb.repository.EmployeeRepository;
 import jakarta.persistence.EntityNotFoundException;
-import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
